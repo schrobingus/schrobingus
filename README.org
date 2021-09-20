@@ -1,0 +1,16 @@
+* Hey, welcome to my +special hell+ GitHub profile!
+My name is Brent, and am currently a hobbyist who takes interest in shell scripting and Emacs Lisp, and is currently learning C and C++.
+
+** Some deets about myself:
+- Currently 15 (02/22/'06)
+- Living in Oregon
+- Sophomore in High School
+- Working on Modulus Linux and getting it running
+- Running openSUSE Tumbleweed in the meantime, my preference
+- Generic white guy (he/him)
+- Probably +procrastinating+ vibing on Discord and shitposting
+
+** What I currently use:
+*** Software I use:
+*** Software I'm familiar with:
+*** Software I'm learning:
