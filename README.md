@@ -1,7 +1,7 @@
-* Hey, welcome to my +special hell+ GitHub profile!
+# Hey, welcome to my +special hell+ GitHub profile!
 My name is Brent, and am currently a hobbyist who takes interest in Lisp-type languages, and is currently learning C and C++.
 
-** Some deets about myself:
+## Some deets about myself:
 - Currently 15 (02/22/'06)
 - Residing in Southern Oregon
 - Sophomore in High School, always busy
@@ -11,7 +11,7 @@ My name is Brent, and am currently a hobbyist who takes interest in Lisp-type la
 - Despises web development when it gets overly complicated and prefers simplicity
 - Knowledgable in Lua, Rust, Bash + POSIX Shell, Python, C#, Elisp, Common Lisp, Fennel, and Nix
 
-** Where you can hit me up:
+## Where you can hit me up:
 Preferably be contacted by Discord, and the response will be almost immediate depending on where you're located, but I'll try to get back to you if I recieve anything on the other platforms (which might take considerably more time).
 - Discord: BrentBoyMeMUG#1849
 - Email: brent.monning.jr@gmail.com
