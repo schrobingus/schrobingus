@@ -1,4 +1,4 @@
-# Hey, welcome to my +special hell+ GitHub profile!
+# Hey, welcome to my ~~special hell~~ GitHub profile!
 My name is Brent, and am currently a hobbyist who takes interest in Lisp-type languages, and is currently learning C and C++.
 
 ## Some deets about myself:
@@ -7,7 +7,7 @@ My name is Brent, and am currently a hobbyist who takes interest in Lisp-type la
 - Sophomore in High School, always busy
 - Running NixOS with AwesomeWM
 - Generic white guy (he/him)
-- Probably +procrastinating+ vibing on Discord and shitposting
+- Probably ~~procrastinating~~ vibing on Discord and shitposting
 - Despises web development when it gets overly complicated and prefers simplicity
 - Knowledgable in Lua, Rust, Bash + POSIX Shell, Python, C#, Elisp, Common Lisp, Fennel, and Nix
 
