@@ -5,7 +5,7 @@ My name is Brent, and am currently a hobbyist who takes interest in Lisp-type la
 - Currently 15 (02/22/'06)
 - Residing in Southern Oregon
 - Sophomore in High School, always busy
-- Running Arch Linux with Sway
+- Running elementary OS, formerly Arch / NixOS.
 - Generic white guy (he/him)
 - Uses Emacs as an editor for pretty much everything
 - Probably ~~procrastinating~~ vibing on Discord and shitposting
