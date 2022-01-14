@@ -1,20 +1,17 @@
-# Hey, welcome to my ~~special hell~~ GitHub profile!
-My name is Brent, and am currently a hobbyist who takes interest in Lisp-type languages, and is currently learning C and C++.
+# Greetings, and welcome to the apocalypse!
+You can call me Brent, and I currently do Computer Science as a hobby in my spare time.
 
 ## Some deets about myself:
-- Currently 15 (02/22/'06)
+- Age 15 (02/22/06)
 - Residing in Southern Oregon
 - Sophomore in High School, always busy
-- Running elementary OS, formerly Arch / NixOS.
 - Generic white guy (he/him)
 - Uses Emacs as an editor for pretty much everything
-- Probably ~~procrastinating~~ vibing on Discord and shitposting
+- Active often on Discord, check tag below for contact
 - Despises web development when it gets overly complicated and prefers simplicity
-- Knowledgable in Lua, Rust, Bash + POSIX Shell, Python, C#, Elisp, Common Lisp, Fennel, and Nix
+- Knowledgable in Lua, Rust, Bash + POSIX Shell, Python, Vala, C#, Elisp, Common Lisp, Fennel, and Nix
 
 ## Where you can hit me up:
-Preferably be contacted by Discord, and the response will be almost immediate depending on where you're located, but I'll try to get back to you if I recieve anything on the other platforms (which might take considerably more time).
-- Discord: BrentBoyMeBob#1849
+- Discord: BrentBoyMeBob#0704
 - Email: brent.monning.jr@gmail.com
 - Reddit: u/someguywithasiphus
-- Twitter: @BrentBoyMeBob
