@@ -1,9 +1,9 @@
 # Welcome to the alleyway!
-- Currently using Fedora
+- Currently using Arch
 - High School Student
-- Unix Enthusiast
-- Learning C and C++ using the holy book.
-- Expertise of Python and Lisp-types, also skilled at Unix Scripting
+- Unix Enthusiast, skilled at maintaining and scripting
+- Learning C and C++ using the holy book, also learning Zig
+- Expertise of Python and Lisp-types
 - Knowledgable in Lua, Rust, Vala, C# and Nix
 
 ## Contact
