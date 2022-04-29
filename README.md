@@ -1,10 +1,10 @@
 # Welcome to the alleyway!
-- Currently using Arch
+- Currently using NixOS, and getting more experienced in Nix
 - High School Student
 - Unix Enthusiast, skilled at maintaining and scripting
-- Learning C and C++ using the holy book, also learning Zig
+- Learning C and C++, and Zig
 - Expertise of Python and Lisp-types
-- Knowledgable in Lua, Rust, Vala, C# and Nix
+- Knowledgable in Lua, Rust, Vala, C#
 
 ## Contact
 - Discord: BrentBoyMeBob#0704
