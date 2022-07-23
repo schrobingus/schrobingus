@@ -1,14 +1,11 @@
 # Welcome to the alleyway!
-- Currently using NixOS, and getting more experienced in Nix
+- Addicted to Emacs
 - High School Student
-- Unix Enthusiast, skilled at maintaining and scripting
-- Learning C and C++, and Zig
+- Learning C, Zig and Dart
 - Expertise of Python and Lisp-types
-- Knowledgable in Lua, Rust, Vala, C#
+- Knowledgable in Lua, Rust, Vala, Swift, C# and Nix
 
 ## Contact
-- Discord: BrentBoyMeBob#0704
+If you are contacting me on Discord, leave a note in your status or profile description that you're sending me a friend request, otherwise I'll think you're a bot. I check my email relatively often, but I might not be as quick.
+- Discord (primary): BrentBoyMeBob#0704
 - Email: brent.monning.jr@gmail.com
-- Reddit: u/someguywithasiphus
-
-This profile was made with the guidelines of [Quickie-MD](https://github.com/BrentBoyMeBob/quickie-md).
