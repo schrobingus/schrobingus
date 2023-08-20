@@ -1,9 +1,10 @@
-# Welcome to the alleyway!
-- Learning C / C++, Nim and Zig
-- Expertise of Dart / Flutter, Python second
-- Knowledgable in Lua, Rust, Vala, Swift, C# and Nix
-- Absolutely Lisp-pilled, addicted to Emacs
+# :^)
+- Expertise in Python and Dart with knowledge in Swift.
+- Quite invested in Lisp, especially in data concepts.
+- Interested in newer, rising, or less common technologies, especially in unconventional uses.
+- Caffiene.
 
 ## Contact
-- Discord (primary): BrentBoyMeBob#0704
+- Discord: schrobingus
 - Email: brent.monning.jr@gmail.com
+- Kbin (fediverse): bbmb@kbin.social
