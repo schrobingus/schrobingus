@@ -1,10 +1,7 @@
-# :^)
-- Expertise in Python and Dart with knowledge in Swift.
-- Quite invested in Lisp, especially in data concepts.
-- Interested in newer, rising, or less common technologies, especially in unconventional uses.
-- Caffeine.
-  - Would recommend Stumptown beans, especially their Holler Mountain and Hair Bender blends.
+CV / resume in progress.
 
-## Contact
+## Contacts
 - Discord: schrobingus
-- Email: brent.monning.jr@gmail.com
+- Bluesky: @schrobingus.com
+- Personal Email: brent.monning.jr@gmail.com
+- University Email: monningb@sou.edu
