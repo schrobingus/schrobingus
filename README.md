@@ -1,8 +1,6 @@
-Public CV / resume in progress.
+Public resume is available [here](resume.pdf).
 
 ## Contacts
-- Discord: schrobingus
-- Bluesky: @schrobingus.com
-- Personal Email: brent.monning.jr@gmail.com
-- University Email: monningb@sou.edu
-- LinkedIn (WIP): in/monningb
+- University Email: [monningb@sou.edu](mailto:monningb@sou.edu)
+- Personal Email: [brent.monning.jr@gmail.com](mailto:brent.monning.jr@gmail.com)
+- LinkedIn (WIP): [in/monningb](https://www.linkedin.com/in/monningb)
