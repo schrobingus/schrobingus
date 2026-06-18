@@ -7,11 +7,11 @@
 
 ## Contacts
 
-Please note that both of the email contacts below may be prone to changing in the next month or 2.
-
 - Personal Email: [brent.monning.jr@gmail.com](mailto:brent.monning.jr@gmail.com)
 
-- University Email: [monningb@sou.edu](mailto:monningb@sou.edu)
+- University Email: [monningb@oregonstate.edu](mailto:monningb@oregonstate.edu)
+
+  - Any emails to my old sou.edu address should be forwarded here.
 
 - LinkedIn (WIP): [in/monningb](https://www.linkedin.com/in/monningb)
 
